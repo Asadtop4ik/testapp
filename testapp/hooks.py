@@ -4,7 +4,7 @@ app_publisher = "test"
 app_description = "test"
 app_email = "asadbek.backend@gmail.com"
 app_license = "mit"
-
+  
 # Apps
 # ------------------
 
